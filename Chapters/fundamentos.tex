@@ -33,23 +33,55 @@
 \end{flushright}
 
 %--------- NEW SECTION ----------------------
-\section{Estudo do estado da arte}
+\section{Ultra Wide Band}
 \label{sec:sota}
-\lipsum[1]
-
-%---------------picture------------------------------------
-\begin{figure} [h!]												 
-	\centering													 
-	\includegraphics[width=0.6\textwidth]{./lq}				 
-	\caption{Insufficient data.}		
-	\label{img:ihuma}												 
-\end{figure}													 
-%----------------------------------------------------------
+O princípio de funcionamento do Pozyx se dá na utilização da tecnologia 
+de Ultra Wide Band (UWB) ou de banda ultra larga. UWB é um protocolo de comunicação sem fio
+assim como o Wi-fi e o Bluetooth. Contudo, seu funcionamento difere um pouco destas e outras tecnologias,
+trazendo vantagens e desvantagens. O uso e os estudos acerca da tecnologia UWB vêm se desenvolvendo
+há cerca de 100 anos, quando o inventor e físico italiano Guglielmo Marconi (1874-1937), baseando-se na teoria 
+de Maxwell sobre ondas eletromagnéticas, estudava os princípios da transmissão de dados por radiofrequência. Futuramente 
+foi utilizada em radares do exército estado-unidense e, entre os anos de 1960 a 1990 ficou restrita aplicações militares.
 
 %--------- NEW SECTION ----------------------
-\section{Assunto 1}
+\section{Características da tecnologia}
 \label{sec:ass1}
-\lipsum[1]
+Como mencionado anteriormente, a tecnologia UWB possui algumas diferenças de funcionamento,
+quando comparada a outras de comunicação \textit{Wireless}. 
+
+\subsection{Vantagens}
+Sua principal vantagem é a larga banda de frequência na qual pode operar: aproximadamente 500 MHz, 
+enquanto as do Wi-fi e Bluetooth são de algumas dezenas de MHz. Essa grande largura de banda torna 
+os sinais menos susceptíveis a interferências, oriunda de ondas emitidas por outros aparelhos ao redor.
+A Figura 2.1 ilustra essa diferença.
+
+\begin{figure} [h!]												 
+	\centering													 
+	\includegraphics[width=0.8\textwidth]{./uwb_spectrum}				 
+	\caption{Insufficient data.}		
+	\label{img:ihuma}												 
+\end{figure}
+
+Outra característica do UBW é a utilização de rápidos pulsos (em média 2 ns entre as bordas de subida e descida) para transmitir dados, 
+que são muito mais eficientes e precisos do que por alteração da frequência ou amplitude do sinal. Essa é uma das características
+que fazem desta tecnologia muito útil para localização \textit{indoor}, podendo apresentar uma precisão de menos de 15 cm,
+quanto outras tecnologias não chegam a 1 metro.
+
+Uma das grandes dificuldades em localização \textit{indoor} é a perda do sinal ao ser refletido em paredes ou outros obstáculos. Considerando sinais
+senoidais, a interferência entre o sinal emitido e refletido pode alterar o sinal a ponto de sua frequência e amplitude não serem
+mais reconhecidas pelo receptor. Por utilizar pulsos e trabalhar numa ampla faixa de frequência, os sinais do UWB se mostram mais 
+eficientes nessas situações, visto que são menos susceptíveis a estas alterações. 
+
+Como pode ser visto na imagem acima, o UWB trabalha em uma potência significativamente mais baixa do que as outras tecnologias em 
+toda sua banda, o que deixa aparelhos alimentados por baterias, como robôs móveis, muito mais eficientes, visto que gastariam menos energia
+para se localizar.
+
+\subsection{Desvantagens}
+Em contrapartida às características supracitadas, UWB ainda têm sua aplicabilidade restrita por alguns fatores.
+Por ser uma tecnologia ainda não muito explorada no mercado, seus equipamentos de instalação ainda são caros. Além disso,
+o alcance máximo de um sinal em UWB é de, em média, 10 metros, tornando necessário o posicionamento de vários \textit{anchors} para que
+o posicionamento em locais grandes se torne eficiente, o que encarece ainda mais o sistema.
+
 
 
 
@@ -63,73 +95,3 @@
 %     \label{fig:three graphs}
 % \end{figure}
 %----------------------------------------------------------
-
-\begin{figure}
-    \centering
-    \begin{subfigure}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{./lq}
-        \caption{$y=x$}
-        \label{fig:y equals x}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{./lq}
-        \caption{$y=3sinx$}
-        \label{fig:three sin x}
-    \end{subfigure}
-    \hfill
-    \begin{subfigure}[b]{0.3\textwidth}
-        \centering
-        \includegraphics[width=\textwidth]{./lq}
-        \caption{$y=5/x$}
-        \label{fig:five over x}
-    \end{subfigure}
-       \caption{Three simple graphs}
-       \label{fig:three graphs}
-\end{figure}
-
-
-%--------- NEW SECTION ----------------------
-\section{Assunto 2}
-\label{sec:ass2}
-flkjasdlkfjasdlkfjs
-
-\begin{table}[h]
-    \begin{subtable}[h]{0.45\textwidth}
-        \centering
-        \begin{tabular}{l | l | l}
-        Day & Max Temp & Min Temp \\
-        \hline \hline
-        Mon & 20 & 13\\
-        Tue & 22 & 14\\
-        Wed & 23 & 12\\
-        Thurs & 25 & 13\\
-        Fri & 18 & 7\\
-        Sat & 15 & 13\\
-        Sun & 20 & 13
-       \end{tabular}
-       \caption{First Week}
-       \label{tab:week1}
-    \end{subtable}
-    \hfill
-    \begin{subtable}[h]{0.45\textwidth}
-        \centering
-        \begin{tabular}{l | l | l}
-        Day & Max Temp & Min Temp \\
-        \hline \hline
-        Mon & 17 & 11\\
-        Tue & 16 & 10\\
-        Wed & 14 & 8\\
-        Thurs & 12 & 5\\
-        Fri & 15 & 7\\
-        Sat & 16 & 12\\
-        Sun & 15 & 9
-        \end{tabular}
-        \caption{Second Week}
-        \label{tab:week2}
-     \end{subtable}
-     \caption{Max and min temps recorded in the first two weeks of July}
-     \label{tab:temps}
-\end{table}
