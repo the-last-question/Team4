@@ -5,4 +5,10 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[al. 2018]{Tres}
+\abntrefinfo{al.}{AL.}{2018}
+{AL., M.~R. et. Experimental evaluation of uwb indoor positioning for sport
+  postures.
+\emph{Scientific American}, Switzerland, v.~18, 2018.}
+
 \end{thebibliography}

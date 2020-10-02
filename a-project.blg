@@ -6,7 +6,12 @@ A level-1 auxiliary file: Others/resumo.aux
 A level-1 auxiliary file: Others/abstract.aux
 A level-1 auxiliary file: Chapters/introducao.aux
 A level-1 auxiliary file: Chapters/fundamentos.aux
+A level-1 auxiliary file: Chapters/metodos.aux
+A level-1 auxiliary file: Chapters/resultados.aux
 A level-1 auxiliary file: Chapters/conclusao.aux
+A level-1 auxiliary file: Appendices/diagmec.aux
+A level-1 auxiliary file: Appendices/diagele.aux
+A level-1 auxiliary file: Appendices/logbook.aux
 A level-1 auxiliary file: Others/ultimafolha.aux
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -29,44 +34,44 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 1 entry,
+You've used 2 entries,
             6714 wiz_defined-function locations,
-            1204 strings with 9492 characters,
-and the built_in function-call counts, 891 in all, are:
-= -- 192
-> -- 0
-< -- 0
-+ -- 46
-- -- 0
-* -- 36
-:= -- 175
-add.period$ -- 0
-call.type$ -- 1
-change.case$ -- 3
-chr.to.int$ -- 1
-cite$ -- 0
-duplicate$ -- 3
-empty$ -- 40
-format.name$ -- 0
-if$ -- 204
+            1217 strings with 9730 characters,
+and the built_in function-call counts, 1433 in all, are:
+= -- 220
+> -- 16
+< -- 2
++ -- 51
+- -- 5
+* -- 74
+:= -- 256
+add.period$ -- 3
+call.type$ -- 2
+change.case$ -- 10
+chr.to.int$ -- 5
+cite$ -- 1
+duplicate$ -- 35
+empty$ -- 86
+format.name$ -- 23
+if$ -- 325
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 8
-num.names$ -- 0
-pop$ -- 28
+missing$ -- 26
+newline$ -- 13
+num.names$ -- 5
+pop$ -- 45
 preamble$ -- 1
-purify$ -- 3
+purify$ -- 6
 quote$ -- 0
-skip$ -- 80
+skip$ -- 110
 stack$ -- 1
-substring$ -- 49
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 67
+swap$ -- 12
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 2
+while$ -- 8
 width$ -- 0
-write$ -- 8
+write$ -- 24
