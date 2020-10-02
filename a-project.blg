@@ -6,12 +6,7 @@ A level-1 auxiliary file: Others/resumo.aux
 A level-1 auxiliary file: Others/abstract.aux
 A level-1 auxiliary file: Chapters/introducao.aux
 A level-1 auxiliary file: Chapters/fundamentos.aux
-A level-1 auxiliary file: Chapters/metodos.aux
-A level-1 auxiliary file: Chapters/resultados.aux
 A level-1 auxiliary file: Chapters/conclusao.aux
-A level-1 auxiliary file: Appendices/diagmec.aux
-A level-1 auxiliary file: Appendices/diagele.aux
-A level-1 auxiliary file: Appendices/logbook.aux
 A level-1 auxiliary file: Others/ultimafolha.aux
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -26,166 +21,52 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Database file #1: abntex2-options.bib
 Database file #2: References/referencias.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2091 of file abntex2-alf.bst
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Too many commas in name 1 of "Amsters, R., Demeester, E., Slaets, P., Stevens, N., & Lauwers, Q" for entry Um
-while executing---line 2146 of file abntex2-alf.bst
-Warning--campo year vazio ou faltando em Dois
 +---------------------------------------------------------+
 | Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 4 entries,
+You've used 1 entry,
             6714 wiz_defined-function locations,
-            1227 strings with 10100 characters,
-and the built_in function-call counts, 3501 in all, are:
-= -- 473
-> -- 31
-< -- 45
-+ -- 108
-- -- 10
-* -- 187
-:= -- 504
-add.period$ -- 10
-call.type$ -- 4
-change.case$ -- 22
-chr.to.int$ -- 7
-cite$ -- 4
-duplicate$ -- 217
-empty$ -- 200
-format.name$ -- 46
-if$ -- 791
+            1204 strings with 9492 characters,
+and the built_in function-call counts, 891 in all, are:
+= -- 192
+> -- 0
+< -- 0
++ -- 46
+- -- 0
+* -- 36
+:= -- 175
+add.period$ -- 0
+call.type$ -- 1
+change.case$ -- 3
+chr.to.int$ -- 1
+cite$ -- 0
+duplicate$ -- 3
+empty$ -- 40
+format.name$ -- 0
+if$ -- 204
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 56
-newline$ -- 22
-num.names$ -- 10
-pop$ -- 86
+missing$ -- 10
+newline$ -- 8
+num.names$ -- 0
+pop$ -- 28
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 3
 quote$ -- 0
-skip$ -- 354
+skip$ -- 80
 stack$ -- 1
-substring$ -- 147
-swap$ -- 73
-text.length$ -- 3
+substring$ -- 49
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 5
-warning$ -- 1
-while$ -- 18
+type$ -- 0
+warning$ -- 0
+while$ -- 2
 width$ -- 0
-write$ -- 53
-(There were 56 error messages)
+write$ -- 8
