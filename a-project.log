@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 19:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 19:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -588,7 +588,7 @@ Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
 
 Writing index file a-project.idx
 \c@theorem=\count301
-(/home/brenda/aulas_ws/src/Team4/a-project.aux (/home/brenda/aulas_ws/src/Team4/Others/FolhaRosto.aux) (/home/brenda/aulas_ws/src/Team4/Others/resumo.aux) (/home/brenda/aulas_ws/src/Team4/Others/abstract.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/introducao.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/fundamentos.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/conclusao.aux) (/home/brenda/aulas_ws/src/Team4/Others/ultimafolha.aux))
+(/home/brenda/aulas_ws/src/Team4/a-project.aux)
 \openout1 = `a-project.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
@@ -644,7 +644,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 140.
 LaTeX Info: Redefining \pageref on input line 140.
 LaTeX Info: Redefining \nameref on input line 140.
- (/home/brenda/aulas_ws/src/Team4/a-project.out) (/home/brenda/aulas_ws/src/Team4/a-project.out)
 \@outlinefile=\write4
 \openout4 = `a-project.out'.
 
@@ -701,7 +700,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-<Figures/logo-senai-cimatec.png, id=71, 2234.3475pt x 489.83pt>
+<Figures/logo-senai-cimatec.png, id=4, 2234.3475pt x 489.83pt>
 File: Figures/logo-senai-cimatec.png Graphic file (type png)
 <use Figures/logo-senai-cimatec.png>
 Package pdftex.def Info: Figures/logo-senai-cimatec.png  used on input line 173.
@@ -840,7 +839,17 @@ l.41 \item \textbf
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 41.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+)
+
+LaTeX Warning: Reference `chap:intro' on page 2 undefined on input line 41.
+
+
+LaTeX Warning: Reference `chap:fundteor' on page 2 undefined on input line 42.
+
+
+LaTeX Warning: Reference `chap:conc' on page 2 undefined on input line 43.
+
+)pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.199     \include{Chapters/introducao}
@@ -849,17 +858,19 @@ l.199     \include{Chapters/introducao}
 
  (/home/brenda/aulas_ws/src/Team4/Chapters/fundamentos.tex
 Cap\'{\i }tulo 2.
+<Figures/./uwb_spectrum.png, id=45, 698.61pt x 413.545pt>
+File: Figures/./uwb_spectrum.png Graphic file (type png)
+<use Figures/./uwb_spectrum.png>
+Package pdftex.def Info: Figures/./uwb_spectrum.png  used on input line 31.
+(pdftex.def)             Requested size: 364.19667pt x 215.5873pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [3
 
 
 
-]
-<Figures/./uwb_spectrum.png, id=113, 698.61pt x 413.545pt>
-File: Figures/./uwb_spectrum.png Graphic file (type png)
-<use Figures/./uwb_spectrum.png>
-Package pdftex.def Info: Figures/./uwb_spectrum.png  used on input line 60.
-(pdftex.def)             Requested size: 364.19667pt x 215.5873pt.
- [4 </home/brenda/aulas_ws/src/Team4/Figures/./uwb_spectrum.png>] [5]) [6]
+] [4 </home/brenda/aulas_ws/src/Team4/Figures/./uwb_spectrum.png>] [5]) [6]
 \openout2 = `Chapters/conclusao.aux'.
 
  (/home/brenda/aulas_ws/src/Team4/Chapters/conclusao.tex
@@ -868,15 +879,64 @@ Cap\'{\i }tulo 3.
 
 
 
-] (/home/brenda/aulas_ws/src/Team4/a-project.bbl (/home/brenda/aulas_ws/src/Team4/a-project.brf)
-\tf@brf=\write5
-\openout5 = `a-project.brf'.
+]
+\openout2 = `Chapters/references.aux'.
+
+ (/home/brenda/aulas_ws/src/Team4/Chapters/references.tex
+Ap\^endice A.
+/home/brenda/aulas_ws/src/Team4/Chapters/references.tex:1: Missing number, treated as zero.
+<to be read again> 
+                   A
+l.1 \chapter{Referências}
+                          
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/home/brenda/aulas_ws/src/Team4/Chapters/references.tex:1: Missing number, treated as zero.
+<to be read again> 
+                   A
+l.1 \chapter{Referências}
+                          
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
+Overfull \hbox (9.55084pt too wide) in paragraph at lines 4--6
+\T1/lmr/m/n/12 (-20) Wi-Fi, and Blu-e-to-oth?. Dis-po-n�-vel em: https:https://www.electronicdesign.com/technologies
+ []
 
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
+
+Overfull \hbox (11.6668pt too wide) in paragraph at lines 4--6
+\T1/lmr/m/n/12 (-20) /communications/article/21800581/whats-the-difference-between-measuring-location-by-uwb-
+ []
+
+/home/brenda/aulas_ws/src/Team4/Chapters/references.tex:11: Misplaced alignment tab character &.
+l.11 ... Demeester, E., Slaets, P., Stevens, N., &
+                                                   Lauwers, Q. (2019). Evalu...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+/home/brenda/aulas_ws/src/Team4/Chapters/references.tex:11: Package inputenc Error: Unicode character   (U+202F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...or Positioning Systems. ALLSENSORS 2019 
+                                                  : The Fourth International...
+You may provide a definition with
+\DeclareUnicodeCharacter 
 
 ) [8
+
 
 
 ]
@@ -1029,31 +1089,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--31
 
 ) [9
 
+
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
- (/home/brenda/aulas_ws/src/Team4/a-project.aux (/home/brenda/aulas_ws/src/Team4/Others/FolhaRosto.aux) (/home/brenda/aulas_ws/src/Team4/Others/resumo.aux) (/home/brenda/aulas_ws/src/Team4/Others/abstract.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/introducao.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/fundamentos.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/conclusao.aux) (/home/brenda/aulas_ws/src/Team4/Others/ultimafolha.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
-Package rerunfilecheck Info: File `a-project.out' has not changed.
-(rerunfilecheck)             Checksum: 0C6CA7A1D0612ACB3F5F4492D5820DE2;1080.
-Package rerunfilecheck Info: File `a-project.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 224.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 224.
+ (/home/brenda/aulas_ws/src/Team4/a-project.aux (/home/brenda/aulas_ws/src/Team4/Others/FolhaRosto.aux) (/home/brenda/aulas_ws/src/Team4/Others/resumo.aux) (/home/brenda/aulas_ws/src/Team4/Others/abstract.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/introducao.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/fundamentos.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/conclusao.aux) (/home/brenda/aulas_ws/src/Team4/Chapters/references.aux) (/home/brenda/aulas_ws/src/Team4/Others/ultimafolha.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 224.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 224.
+
+
+Package rerunfilecheck Warning: File `a-project.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `a-project.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  F48CC47CB484E024777A3FCCA7A41934;1081.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 224.
  ) 
 Here is how much of TeX's memory you used:
- 13202 strings out of 481239
- 212250 string characters out of 5920377
+ 13166 strings out of 481239
+ 211108 string characters out of 5920377
  662274 words of memory out of 5000000
- 27957 multiletter control sequences out of 15000+600000
- 587743 words of font info for 95 fonts, out of 8000000 for 9000
+ 27932 multiletter control sequences out of 15000+600000
+ 588107 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,49p,1728b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxo10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb>
-Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (13 pages, 462598 bytes).
+Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (13 pages, 461738 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
+ 125 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  30 named destinations out of 1000 (max. 500000)
- 17555 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 17419 words of extra memory for PDF output out of 20736 (max. 10000000)
 
