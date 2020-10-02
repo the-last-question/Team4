@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 16:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 17:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -878,7 +878,11 @@ File: Figures/./uwb_spectrum.png Graphic file (type png)
 <use Figures/./uwb_spectrum.png>
 Package pdftex.def Info: Figures/./uwb_spectrum.png  used on input line 60.
 (pdftex.def)             Requested size: 364.19667pt x 215.5873pt.
- [4 </home/brenda/aulas_ws/src/Team4/Figures/./uwb_spectrum.png>] [5]) [6]
+ [4 </home/brenda/aulas_ws/src/Team4/Figures/./uwb_spectrum.png>] [5]
+
+LaTeX Warning: Citation `Dois' on page 6 undefined on input line 92.
+
+) [6]
 \openout2 = `Chapters/metodos.aux'.
 
  (/home/brenda/aulas_ws/src/Team4/Chapters/metodos.tex
@@ -935,6 +939,31 @@ Ap\^endice C.
 ] (/home/brenda/aulas_ws/src/Team4/a-project.bbl (/home/brenda/aulas_ws/src/Team4/a-project.brf)
 \tf@brf=\write8
 \openout8 = `a-project.brf'.
+
+
+
+/home/brenda/aulas_ws/src/Team4/a-project.bbl:15: Package inputenc Error: Unicode character   (U+202F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 
+     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Runaway argument?
+COMO a Bonduelle melhorou a eficiência do seu armazém em 3\abntrefinfo \ETC.
+/home/brenda/aulas_ws/src/Team4/a-project.bbl:20: Paragraph ended before \BR@@lbibitem was complete.
+<to be read again> 
+                   \par 
+l.20 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
 ) [15
 
@@ -1098,19 +1127,23 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `a-project.out' has not changed.
 (rerunfilecheck)             Checksum: 9FF2600CDBF386B417D9DD4765B1C648;1938.
 Package rerunfilecheck Info: File `a-project.brf' has not changed.
-(rerunfilecheck)             Checksum: 1ADD820F32741E7CF9D22BE3E4CBD06B;40.
+(rerunfilecheck)             Checksum: 359169D49AA758EFF49AA03BBF656026;80.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 13341 strings out of 481239
- 215352 string characters out of 5920377
- 782058 words of memory out of 5000000
- 28019 multiletter control sequences out of 15000+600000
- 583584 words of font info for 96 fonts, out of 8000000 for 9000
+ 13353 strings out of 481239
+ 215465 string characters out of 5920377
+ 782098 words of memory out of 5000000
+ 28027 multiletter control sequences out of 15000+600000
+ 583804 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,49p,1728b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxo10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb>
-Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (23 pages, 466244 bytes).
+Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (23 pages, 470908 bytes).
 PDF statistics:
  317 PDF objects out of 1000 (max. 8388607)
  279 compressed objects within 3 object streams
