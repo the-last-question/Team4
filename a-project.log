@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 18:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.28)  2 OCT 2020 19:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -772,7 +772,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \openout2 = `Others/resumo.aux'.
 
  (/home/brenda/aulas_ws/src/Team4/Others/resumo.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
@@ -1042,15 +1042,15 @@ Package rerunfilecheck Info: File `a-project.brf' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 13200 strings out of 481239
- 212228 string characters out of 5920377
+ 13202 strings out of 481239
+ 212250 string characters out of 5920377
  662274 words of memory out of 5000000
  27957 multiletter control sequences out of 15000+600000
- 587652 words of font info for 94 fonts, out of 8000000 for 9000
+ 587743 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,49p,1728b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxo10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb>
-Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (13 pages, 461206 bytes).
+Output written on /home/brenda/aulas_ws/src/Team4/a-project.pdf (13 pages, 462598 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
